@@ -1,0 +1,15 @@
+{
+    "name": "Deployador",
+    "alias": "deployador",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Deployador\\Providers\\DeployadorServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        "start.php"
+    ]
+}
